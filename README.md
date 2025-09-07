@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-I am **Asmaa AL Nablsi**, a backend engineer and Computer Engineering graduate from Damascus University (2019).  
+I am **Asmaa AL Nablsi**, a Backend Developer and Computer Engineering graduate from Damascus University (2019).  
 Passionate about building modern web apps, I specialize in PHP frameworks like **Laravel, Yii2, and WordPress**.
 
 - 🔭 Currently working on advanced PHP projects with full-stack capabilities.
