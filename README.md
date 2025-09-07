@@ -38,6 +38,11 @@ Passionate about building modern web apps, I specialize in PHP frameworks like *
 
 *Worked on multiple projects across companies, including e-commerce platforms, HR management systems, and open-source contributions.*
 
+## Live WordPress Projects
+
+- [MatrixGlass](https://matrixglass.co.uk/)
+- [FwBrick](https://fwbrick.com/)
+
 ---
 
 ## 💡 Fun Facts & Hobbies
